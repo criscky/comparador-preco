@@ -1,0 +1,11 @@
+{
+  "/gsheet": {
+    "target": "https://docs.google.com",
+    "secure": true,
+    "changeOrigin": true,
+    "logLevel": "debug",
+    "pathRewrite": {
+      "^/gsheet": ""
+    }
+  }
+}
